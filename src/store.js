@@ -7,6 +7,7 @@ Vue.use(Vuex);
 
 const users = db.get("users");
 
+
 export default new Vuex.Store({
   state: {
     index: -1,

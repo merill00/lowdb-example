@@ -6,9 +6,13 @@
       Contacts
     </h1>
     <div class="ui divider"></div>
-    <build-form/>
+  <div>
+    <build-form />
+    </div>
     <div class="ui hidden divider"></div>
-    <users-list/>
+    <div>
+    <users-list />
+    </div>
   </div>
 </template>
 
@@ -19,10 +23,10 @@ import UsersList from "./components/UsersList.vue";
 export default {
   components: {
     BuildForm,
-    UsersList
+    UsersList,
   },
   created() {
-    this.$store.dispatch('fetchDB');
-  }
+    this.$store.dispatch("fetchDB");
+  },
 };
 </script>

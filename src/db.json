@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "name": "bob",
+            "email": "b@gmail.com",
+            "phone": "32354646",
+            "id": "eede49d8-d28e-4194-b532-288ba5b89985"
+        },
+        {
+            "name": "Bob",
+            "email": "bsg@gmail.com",
+            "phone": "800-456-4789",
+            "id": "c134741a-7145-4157-8311-11a33b35d859"
+        },
+        {
+            "name": "George",
+            "email": "geo@email.net",
+            "phone": "888-9763",
+            "id": "059a024c-81f3-483e-bd03-05e12e786e3a"
+        },
+        {
+            "name": "Bob jones",
+            "email": "bj@gmail.com",
+            "phone": "800-789-1234",
+            "id": "8f7570cb-3170-4bf7-b467-b78e128aa0ba"
+        },
+        {
+            "name": "Peter",
+            "email": "p@mail.com",
+            "phone": "123-456-7890",
+            "id": "84bb63a6-53ba-4fb8-8067-137db1429909"
+        }
+    ]
+}
